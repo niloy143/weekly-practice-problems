@@ -1,0 +1,1 @@
+{"name":"Local: max_sum_subarray_of_size_k","url":"f:\\phitron\\xpsc\\problems\\week-1\\day-1\\max_sum_subarray_of_size_k.cpp","tests":[{"id":1696092795204,"input":"1\n4 2\n100 200 300 400","output":"700"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\phitron\\xpsc\\problems\\week-1\\day-1\\max_sum_subarray_of_size_k.cpp","group":"local","local":true}
